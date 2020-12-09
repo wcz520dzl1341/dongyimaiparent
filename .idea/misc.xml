@@ -13,6 +13,9 @@
     <file type="web" url="file://$PROJECT_DIR$/dongyimai-sellergoods-service" />
     <file type="web" url="file://$PROJECT_DIR$/dongyimai-shop-web" />
   </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
